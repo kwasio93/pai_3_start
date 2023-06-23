@@ -1,0 +1,26 @@
+{
+  "name": "pai_3_start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start": "node index.js",
+		"lint": "eslint src/js"
+      
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwasio93/pai_3_start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwasio93/pai_3_start/issues"
+  },
+  "homepage": "https://github.com/kwasio93/pai_3_start#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
